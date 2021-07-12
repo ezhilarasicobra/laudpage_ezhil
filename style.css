@@ -1,0 +1,150 @@
+.container{
+    background-color: black;
+}
+.header{
+    color: white;
+    display: flex;
+    justify-content: flex-start;
+    padding-left: 55px;
+
+}
+.container1{
+    color: white;
+    display: flex;
+    justify-content: center;
+}
+    
+    .container2{
+        margin-top: -25px;
+    }
+
+.header-p{
+    padding-right: 44px;
+padding-left: 18px;
+}
+.col-sm
+{
+    height: max-content;
+}
+.img{
+    padding-left: 131px;
+    padding-top: 157px;
+}
+#div1{
+    padding-right: 10px;
+    padding-top: 94px;
+padding-left: 336px;
+}
+.container3{
+    display: flex;
+    justify-content: center;
+    padding-top: 39px;
+padding-bottom: 50px;
+}
+.icon1{
+    background-color: grey;
+    border-radius: 15%;
+    color: thistle;
+    padding-top: 10px;
+padding-bottom: 10px;
+padding-left: 25px;
+padding-right: 25px;
+}
+
+.icon2{
+    background-color: red;
+    color:white;
+    border-radius: 15%;
+    padding-top: 10px;
+padding-bottom: 10px;
+padding-left: 25px;
+padding-right: 25px;
+margin-right: 20px;
+margin-left: 20px;
+    
+}
+
+.icon3{
+    background-color:orange;
+    color: white;
+    border-radius: 15%;
+    border-top-width: 1px;
+border-top-style: solid;
+border-right-width: 1px;
+border-right-style: solid;
+border-bottom-width: 1px;
+border-bottom-style: solid;
+padding-right: 25px;
+margin-right: 0px;
+padding-left: 25px;
+padding-top: 10px;
+padding-bottom: 10px;
+    
+}
+.container4{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+#a{
+    margin-left: -176px;
+}
+#b{
+    margin-left: -181px;
+}
+.poet-name{
+    padding-bottom: 81px;
+}
+#h{
+    padding-left: 275px;
+}
+.bor{
+    border: solid 1px gray;
+    margin-left: 50px;
+}
+.container6{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.container7{
+    background-color: white;
+    color: black;
+    margin-top: 53px;
+    margin-right: 6px;
+    margin-left: 241px;
+}
+.l{
+    margin-left: -60px;
+
+}
+.container8{
+    background-color: black;
+    color: white;
+    border: solid 1px gray;
+
+}
+#e{
+    margin-top: 26px;
+    margin-left: 144px;
+
+    border-right-width: 1px;
+    border-right-style: dotted;
+}
+.f{
+    padding-left: 52px;
+    margin-left: 20px;
+    padding-right: 134px;
+    margin-top: 27px;
+    margin-right: 68px;
+    border-right-width: 1px;
+    border-right-style: dotted;
+}
+.g{
+    border-right-width: 1px;
+    margin-top: 19px;
+    padding-right: 38px;
+    text-align: center;
+    padding-right: 125px;
+    }
